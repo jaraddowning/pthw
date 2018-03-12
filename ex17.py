@@ -6,8 +6,8 @@ script, from_file, to_file = argv
 print "This script will copy from %s and put it into %s" % (from_file, to_file)
 
 # we could do these two on one line too, how?
-in_file = open(from_file)
-indata = in_file.read()
+# ; allows two lines of code on one line
+in_file = open(from_file); indata = in_file.read()
 
 
 print "The input file is %d bytes long" % len(indata)
