@@ -1,0 +1,8 @@
+Cloning into 'pthw'...
+remote: Counting objects: 28, done.
+remote: Compressing objects: 100% (22/22), done.
+remote: Total 28 (delta 3), reused 28 (delta 3), pack-reused 0
+Unpacking objects: 100% (28/28), done.
+This script works
+That's pretty cool
+I think I can use this for evil.
