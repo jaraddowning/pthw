@@ -3,7 +3,7 @@ My attempt at learning python using the book "Python the hard way"
 
 Also: to refresh my knowledge of git & github.
 
-#Info for me to reference later
+## Info for me to reference later
 # The largest heading
 ## The second largest heading
 ###### The smallest heading
